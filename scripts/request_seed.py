@@ -1,10 +1,10 @@
 import requests
 import json
 
-STUDENT_ID = "23P31A0535"
+STUDENT_ID = "23P31A0533"
 
 
-REPO_URL = "https://github.com/NandinipriyaM/pki-2fa-auth-service"
+REPO_URL = "https://github.com/bhavyasatyasri200/Secure-PKI-Based-2FA-Microservice"
 
 API_URL = "https://eajeyq4r3zljoq4rpovy2nthda0vtjqf.lambda-url.ap-south-1.on.aws"
 
