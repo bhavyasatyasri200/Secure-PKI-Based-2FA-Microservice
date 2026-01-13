@@ -7,7 +7,7 @@ from app.totp_utils import generate_totp_code, verify_totp_code, get_seconds_rem
 
 app = FastAPI()
 
-SEED_FILE_PATH = "/data/seed.txt"
+SEED_FILE_PATH = "data/seed.txt"
 
 
 # -------------------------------
